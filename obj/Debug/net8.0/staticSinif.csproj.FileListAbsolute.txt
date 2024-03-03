@@ -1,0 +1,14 @@
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\staticSinif\bin\Debug\net8.0\staticSinif.exe
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\staticSinif\bin\Debug\net8.0\staticSinif.deps.json
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\staticSinif\bin\Debug\net8.0\staticSinif.runtimeconfig.json
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\staticSinif\bin\Debug\net8.0\staticSinif.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\staticSinif\bin\Debug\net8.0\staticSinif.pdb
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\staticSinif\obj\Debug\net8.0\staticSinif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\staticSinif\obj\Debug\net8.0\staticSinif.AssemblyInfoInputs.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\staticSinif\obj\Debug\net8.0\staticSinif.AssemblyInfo.cs
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\staticSinif\obj\Debug\net8.0\staticSinif.csproj.CoreCompileInputs.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\staticSinif\obj\Debug\net8.0\staticSinif.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\staticSinif\obj\Debug\net8.0\refint\staticSinif.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\staticSinif\obj\Debug\net8.0\staticSinif.pdb
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\staticSinif\obj\Debug\net8.0\staticSinif.genruntimeconfig.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\staticSinif\obj\Debug\net8.0\ref\staticSinif.dll
